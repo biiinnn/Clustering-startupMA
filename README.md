@@ -56,8 +56,8 @@
   ![2](https://user-images.githubusercontent.com/46666833/164216053-fc83b8ae-b934-4a50-a781-4635c334ee37.PNG)
 
 #### 3. Clustering & ANOVA Test
-- K-means clustering 활용 (k=6, silhouette score = 0.4690)
-- 해석에 유의미한 변수를 추출하기 위해 ANOVA Test 실시
+- K-means clustering 활용 (k=6, silhouette score = 0.4690) ->  ```clustering.ipynb```
+- 해석에 유의미한 변수를 추출하기 위해 ANOVA Test 실시 -> ```interprtation.ipynb```
 
 #### 4. Result
 - 5개의 클러스터 도출, 유의미한 변수들로 해석
