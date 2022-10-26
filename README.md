@@ -1,7 +1,7 @@
 # clustering-startup-M&A
 
 ## 연구 목적: provide data-driven taxonomy for M&A patterns
-자세한 내용 설명 -> **clustering M&A.pdf**
+자세한 내용 설명 -> **M&A clustering 발표자료.pdf**
 
 ### data
 - 출처: https://crunchbase.com
